@@ -105,4 +105,4 @@ python3 -m build
 ```
 
 ## License
-MIT
+GNU General Public License v3.0
