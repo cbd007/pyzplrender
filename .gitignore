@@ -1,0 +1,1 @@
+dist/\nbuild/\n*.egg-info/\n__pycache__/\n.coverage\n.pytest_cache/
