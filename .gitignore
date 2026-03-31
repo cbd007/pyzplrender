@@ -1,4 +1,9 @@
-dist/\nbuild/\n*.egg-info/\n__pycache__/\n.coverage\n.pytest_cache/
+dist/
+build/
+*.egg-info/
+__pycache__/
+.coverage
+.pytest_cache/
 .pytest_cache
 .coverage
 **/__pycache__
